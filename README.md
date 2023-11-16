@@ -1,3 +1,3 @@
-### 1° parcial de 1C2023 de Orga II
+### Parciales de 1C2023 de Orga II
 
-Ambos ejercicios corren los tests de la cátedra y pasan Valgrind sin problema.
+Los ejercicios del _1er parcial_ corren los tests de la cátedra y pasan Valgrind sin problema.
